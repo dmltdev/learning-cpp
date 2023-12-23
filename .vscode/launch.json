@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/jpmat/programming/repositories/learning-cpp",
-      "program": "c:/Users/jpmat/programming/repositories/learning-cpp/build/Debug/outDebug",
+      "cwd": "c:/Users/jpmat/programming/repositories/learning-cpp/0-basics",
+      "program": "c:/Users/jpmat/programming/repositories/learning-cpp/0-basics/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
